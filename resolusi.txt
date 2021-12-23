@@ -1,3 +1,5 @@
 resolusi :
 - Konsisten belajar programming
 - Mengurangi bermain game
+- Membuat suatu aplikasi
+- Membuat game
