@@ -1,3 +1,6 @@
 rencana belajar:
 - belajar python
+  + NumPY
+  + Pandas
 - belajar C
+- belajar C++
