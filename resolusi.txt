@@ -1,5 +1,7 @@
 resolusi :
 - Konsisten belajar programming
+  * belajar bahasa C
+  * belajar python
 - Mengurangi bermain game
 - Membuat game
 - Membuat Software
