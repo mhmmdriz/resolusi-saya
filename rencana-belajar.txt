@@ -1,5 +1,7 @@
 rencana belajar:
 - belajar python
-  + NumPY
+  * belajar django
+  * NumPY
 - belajar C
 - belajar C++
+
